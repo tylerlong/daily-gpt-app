@@ -2,6 +2,10 @@
 
 Daily GPT provides easy access to ChatGPT.
 
+Desktop app for ChatGPT.
+
+It's just an Electron wrapper of https://chat.openai.com/chat.
+
 
 ## First time run error
 
