@@ -7,7 +7,7 @@ Desktop app for ChatGPT.
 It's just an Electron wrapper of https://chat.openai.com/chat.
 
 
-## [download](https://github.com/tylerlong/daily-gpt-app/releases)
+# [download](https://github.com/tylerlong/daily-gpt-app/releases)
 
 
 ## First time run error
